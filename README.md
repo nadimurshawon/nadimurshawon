@@ -5,7 +5,7 @@
 
 
 About Me:
-"Hi, I'm [Your Name]!
+"Hi, I'm Md.Nadimur Rahman Shawon!
 I am a passionate Computer Science student with a keen interest in software development, machine learning, and problem-solving. I love exploring new technologies, learning new programming languages, and applying my knowledge to real-world projects. I am always eager to take on challenges and collaborate with others to create innovative solutions.
 Feel free to explore my repositories and connect with me. I'm always open to learning, sharing ideas, and working on exciting projects!"
 
