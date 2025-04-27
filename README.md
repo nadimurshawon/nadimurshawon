@@ -1,32 +1,57 @@
 <h1 align="center">Hi 👋, I'm Nadimur Rahman Shawon</h1>
-<h3 align="center"></h3>
-
-- 📫 How to reach me **nadimurshawon74@gmail.com**
-
-
-About Me:
-"Hi, I'm Md.Nadimur Rahman Shawon!
-I am a passionate Computer Science student with a keen interest in software development, machine learning, and problem-solving. I love exploring new technologies, learning new programming languages, and applying my knowledge to real-world projects. I am always eager to take on challenges and collaborate with others to create innovative solutions.
-Feel free to explore my repositories and connect with me. I'm always open to learning, sharing ideas, and working on exciting projects!"
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nadimurshawon74/) 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nadimurshawon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nadimurshawon&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nadimurshawon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nadimurshawon&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h3 align="center">Aspiring Full Stack Developer | Future Ethical Hacker | CS Student</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nadimurshawon&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me:
+I'm **Md. Nadimur Rahman Shawon**, a passionate Computer Science student who loves:
+- 💻 Building cool things with code
+- 🔍 Exploring new technologies
+- 🚀 Learning full-stack development (React + Django)
+- 🛡️ Diving into the world of Cyber Security & Hacking
 
+📬 **Reach me at:** nadimurshawon74@gmail.com
+
+---
+
+### 🛠️ Tech Stack:
+- **Languages:** Python, C, C++, JavaScript (learning)
+- **Frontend:** HTML, CSS, Tailwind, React (learning)
+- **Backend:** Django (coming soon), Node.js (future)
+- **Database:** SQLite, MySQL (learning phase)
+- **Tools:** Git, GitHub, VSCode, Linux (Kali, Ubuntu)
+- **Other Interests:** Hacking, Bug Bounty, Linux Internals
+
+---
+
+### 🌐 Connect With Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nadimurshawon74/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:nadimurshawon74@gmail.com)
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nadimurshawon&theme=tokyonight&show_icons=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadimurshawon&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadimurshawon&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+---
+
+### 🔝 Most Contributed Repos
+![](https://github-contributor-stats.vercel.app/api?username=nadimurshawon&limit=5&theme=tokyonight)
+
+### ✍️ Dev Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+### 👣 Visitor Count
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=nadimurshawon&icon=0&color=0" />
+</p>
+
+---
+
+<!-- Crafted with ❤️ by Nadimur Shawon -->
