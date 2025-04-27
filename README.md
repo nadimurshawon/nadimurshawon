@@ -50,11 +50,6 @@ I'm **Md. Nadimur Rahman Shawon**, a passionate Computer Science student who lov
 ### 👣 Visitor Count
 
 ---
-<!-- GitHub Profile Banner -->
-<div style="background-color: #2d2d2d; padding: 20px; text-align: center; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-  <h1 style="color: #ffffff; font-size: 36px; margin-bottom: 10px;">Nadimur Rahman Shawon</h1>
-  <p style="color: #ffffff; font-size: 18px; margin-bottom: 20px;">Aspiring Full Stack Developer | Future Ethical Hacker | CS Student</p>
-  <a href="https://github.com/nadimurshawon" target="_blank" style="text-decoration: none; color: #ffffff; font-size: 18px; background-color: #007bff; padding: 10px 20px; border-radius: 5px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">Visit My GitHub</a>
-</div>
+
 
 <!-- Crafted with ❤️ by Nadimur Shawon -->
