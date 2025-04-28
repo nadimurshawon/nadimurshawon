@@ -48,8 +48,9 @@ I'm **Md. Nadimur Rahman Shawon**, a passionate Computer Science student who lov
 ---
 ### 👣 Visitor Count:
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=nadimurshawon&icon=5&color=6" />
+  <img src="https://komarev.com/ghpvc/?username=nadimurshawon&color=blue&style=flat" />
 </p>
+
 
 
 ---
