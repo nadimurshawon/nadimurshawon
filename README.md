@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nadimur Rahman Shawon</h1>
-<h3 align="center">Aspiring Full Stack Developer | Future Ethical Hacker | CS Student</h3>
+<h3 align="center">Aspiring Backend Engineer | Future Ethical Hacker | CS Student</h3>
 
 ---
 
