@@ -7,7 +7,7 @@
 I'm **Md. Nadimur Rahman Shawon**, a passionate Computer Science student who loves:
 - 💻 Building cool things with code
 - 🔍 Exploring new technologies
-- 🚀 Learning full-stack development (React + Django)
+- 🚀 Learning full-stack development (Django)
 - 🛡️ Diving into the world of Cyber Security & Hacking
 
 📬 **Reach me at:** nadimurshawon74@gmail.com
@@ -15,11 +15,11 @@ I'm **Md. Nadimur Rahman Shawon**, a passionate Computer Science student who lov
 ---
 
 ### 🛠️ Tech Stack:
-- **Languages:** Python, C, C++, JavaScript (learning)
+- **Languages:** Python, C, C++ (learning)
 - **Frontend:** HTML, CSS, Tailwind, React (learning)
-- **Backend:** Django (coming soon), Node.js (future)
-- **Database:** SQLite, MySQL (learning phase)
-- **Tools:** Git, GitHub, VSCode, Linux (Kali, Ubuntu)
+- **Backend:** Django 
+- **Database:** MySQL (learning phase)
+- **Tools:** Git, GitHub, VSCode, Linux (Kali)
 - **Other Interests:** Hacking, Bug Bounty, Linux Internals
 
 ---
