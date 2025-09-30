@@ -5,7 +5,7 @@
 
 ---
 
-<!-- Futuristic Banner (replace with your custom banner GIF/PNG) -->
+<!-- Futuristic Banner -->
 <p align="center">
   <img src="https://i.ibb.co/ZM9XZB1/futuristic-banner.gif" alt="Futuristic Banner" width="100%"/>
 </p>
@@ -13,21 +13,21 @@
 ---
 
 ## 🌌 About Me  
-<p align="center">
-  <strong>Computer Science Student • Future Innovator</strong><br/>
-  ⚡ Exploring: <em>AI, Full-Stack, Cloud & System Design</em> • 🎯 Goal: Big Tech
-</p>
+⚡ *Computer Science Student | Future Innovator*  
+🚀 Exploring: *AI, Full-Stack, Cloud & System Design*  
+🎯 Goal: *Big Tech (Google | Microsoft | Amazon)*  
+💡 Motto: *Dream. Code. Achieve.*  
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadimurshawon&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=nadimurshawon&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nadimurshawon&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF0080" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=nadimurshawon&theme=radical&hide_border=true&background=0D1117&ring=FF0080&fire=00F7FF&currStreakLabel=00F7FF" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadimurshawon&layout=compact&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadimurshawon&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF" height="160"/>
 </p>
 
 ---
@@ -41,38 +41,32 @@
 
 ## ⚡ Competitive Programming  
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/nadimurshawon?theme=dark&font=Orbitron&ext=contest" alt="LeetCode Card"/>
+  <img src="https://leetcard.jacoblin.cool/nadimurshawon?theme=dark&font=Orbitron&ext=contest" />
 </p>
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,vue,tailwind,django,flask,mysql,git,github,docker,aws,linux,vscode,figma&theme=dark" />
 </p>
 
 ---
 
-## 📈 Contribution Graph (Compact)
+## 📈 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadimurshawon&theme=react-dark&hide_border=true&area=true&line=00F7FF&point=FF0080" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadimurshawon&theme=react-dark&hide_border=true&area=true&line=00F7FF&point=FF0080" />
 </p>
 
 ---
 
-## 🎮 Contribution Snake (animated)
-<p align="center">
-  <!-- IMPORTANT: change <branch> to your default branch if it's not main -->
-  <img src="https://raw.githubusercontent.com/nadimurshawon/nadimurshawon/main/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
-> যদি এখানে **broken image** আসে: নিশ্চিত করুন `output/github-contribution-grid-snake.svg` ফাইল আপনার রেপোতে আছে, পাথ/ব্রাঞ্চ সঠিক এবং রেপো পাবলিক।
-
----
-
-## 🎨 Animated Fun Section
+## 🎨 Animated Fun Section  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/nadimurshawon/nadimurshawon/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
 
 <p align="center">
@@ -81,11 +75,11 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://linkedin.com/in/nadimurshawon74/"><img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
-  <a href="mailto:nadimurshawon74@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF0080?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://nadimurshawon.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=00F7FF" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/nadimurshawon74/"><img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+  <a href="mailto:nadimurshawon74@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF0080?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://nadimurshawon.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=00F7FF"/></a>
 </p>
 
 ---
