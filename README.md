@@ -1,62 +1,61 @@
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Shawon+👋;Computer+Science+Student+%7C+Future+Software+Engineer;Passionate+about+AI+%26+Full-Stack+Development;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Shawon+👋;Future+Software+Engineer+%7C+CS+Student;Passionate+about+AI+%26+Full-Stack+Development;Always+Learning+New+Technologies" alt="Typing Animation"/>
+</p>
 
 ---
 
-## 🚀 About Me
-- 🎓 I’m currently studying *Computer Science & Engineering*
-- 💻 Passionate about *Web Development, AI, and System Design*
-- 🌱 Currently learning *Backend Systems, Cloud & DevOps*
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/Fx3mH0M/neon-banner.gif" alt="Neon Banner" width="100%"/>
+</p>
+
+---
+
+## 🌟 About Me  
+💻 Passionate about *AI, Full-Stack Development & Cloud*  
+🚀 Dreaming big: *Google | Microsoft | Amazon*  
+🌱 Currently learning *Backend Systems, DevOps & System Design*  
+⚡ Motto: *Code. Learn. Innovate. Repeat.*  
 
 ---
 
 ## 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadimurshawon&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
-  <img src="https://streak-stats.demolab.com?user=nadimurshawon&theme=radical&hide_border=false" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nadimurshawon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=nadimurshawon&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadimurshawon&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nadimurshawon&theme=darkhub&row=1&column=7" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadimurshawon&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 💡 Competitive Programming Stats
+## 🏆 Trophies & Achievements  
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/nadimurshawon?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=nadimurshawon&theme=algolia&no-frame=true&row=1&column=7" alt="Trophies"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 💡 Competitive Programming
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadimurshawon&theme=react-dark" alt="Contribution Graph"/>
+  <img src="https://leetcard.jacoblin.cool/nadimurshawon?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
 </p>
 
 ---
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,django,flask,mysql,git,docker,aws,linux,vscode&theme=dark" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadimurshawon&theme=github-compact" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -67,19 +66,19 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/nadimurshawon/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://github.com/nadimurshawon/nadimurshawon/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/nadimurshawon74/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/nadimurshawon74/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:nadimurshawon74@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://nadimurshawon.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
 
-💡 “Code is like humor. When you have to explain it, it’s bad.”  
-⭐ From [Shawon](https://github.com/nadimurshawon)
+💡 *"The best way to predict the future is to create it."*  
+⭐ From **[Shawon](https://github.com/nadimurshawon)**
