@@ -14,7 +14,6 @@
 
 ## 🌟 About Me  
 💻 Passionate about *AI, Full-Stack Development & Cloud*  
-🚀 Dreaming big: *Google | Microsoft | Amazon*  
 🌱 Currently learning *Backend Systems, DevOps & System Design*  
 ⚡ Motto: *Code. Learn. Innovate. Repeat.*  
 
@@ -41,7 +40,20 @@
 
 ## 💡 Competitive Programming
 <p align="center">
+  <!-- LeetCode -->
   <img src="https://leetcard.jacoblin.cool/nadimurshawon?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+</p>
+
+<p align="center">
+  <!-- HackerRank (badge style since no stats card exists) -->
+  <a href="https://www.hackerrank.com/nadimurshawon74" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile"/>
+  </a>
+
+  <!-- CodeChef (unofficial stats card) -->
+  <a href="https://www.codechef.com/users/nadimurshawon" target="_blank">
+    <img src="https://cp-logo.vercel.app/codechef/nadimurshawon" alt="CodeChef Stats"/>
+  </a>
 </p>
 
 ---
@@ -63,10 +75,6 @@
 ## 📖 Fun Section
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/nadimurshawon/nadimurshawon/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
 
 ---
