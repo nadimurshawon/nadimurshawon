@@ -41,23 +41,20 @@
 ## 💡 Competitive Programming
 <p align="center">
   <!-- LeetCode -->
-  <img src="https://leetcard.jacoblin.cool/nadimurshawon?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" height="300"/>
+  <img src="https://leetcard.jacoblin.cool/nadimurshawon?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
 </p>
 
 <p align="center">
-  <!-- HackerRank -->
+  <!-- HackerRank (badge style since no stats card exists) -->
   <a href="https://www.hackerrank.com/nadimurshawon74" target="_blank">
-    <img src="https://github-readme-hackerrank-stats.vercel.app/api?husername=nadimurshawon74&theme=tokyonight&hide_border=true" alt="HackerRank Stats" height="300"/>
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile"/>
   </a>
-</p>
 
-<p align="center">
-  <!-- CodeChef -->
+  <!-- CodeChef (unofficial stats card) -->
   <a href="https://www.codechef.com/users/nadimurshawon" target="_blank">
-    <img src="https://github-readme-codechef-stats.vercel.app/api?username=nadimurshawon&theme=tokyonight&hide_border=true&show_icons=true" alt="CodeChef Stats" height="300"/>
+    <img src="https://cp-logo.vercel.app/codechef/nadimurshawon" alt="CodeChef Stats"/>
   </a>
 </p>
-
 
 ---
 
