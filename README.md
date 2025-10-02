@@ -50,17 +50,11 @@
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile"/>
   </a>
 
-  <!-- CodeChef (unofficial stats card) -->
-  <a href="https://www.codechef.com/users/nadimurshawon" target="_blank">
-    <img src="https://cp-logo.vercel.app/codechef/nadimurshawon" alt="CodeChef Stats"/>
-  </a>
-</p>
-
 ---
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,django,flask,mysql,git,docker,aws,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,django,flask,mysql,git,docker,aws,linux&theme=dark" />
 </p>
 
 ---
