@@ -56,16 +56,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px">
 
-## 📊 GitHub Analytics
+## 📊 GitHub Metrics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=nadimurshawon&theme=tokyonight&hide_border=true&background=00000000&ring=00F7FF&fire=FF00E5&currStreakLabel=00F7FF&sideLabels=c9d1d9&dates=888888" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadimurshawon&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=c9d1d9&langs_count=8" height="180"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nadimurshawon&theme=react-dark&bg_color=00000000&color=00F7FF&line=FF00E5&point=ffffff&hide_border=true&area=true" width="97%"/>
+<img src="https://raw.githubusercontent.com/nadimurshawon/nadimurshawon/main/github-metrics.svg" width="100%"/>
 
 </div>
 
