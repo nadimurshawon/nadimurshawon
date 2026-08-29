@@ -1,123 +1,131 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Hi%20There,%20I'm%20Shawon%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Future%20Software%20Engineer%20%7C%20CS%20Student&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:8A2BE2,100:FF00E5&height=280&section=header&text=SHAWON&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Future%20Software%20Engineer%20|%20CS%20Student%20|%20Builder&descAlignY=55&descSize=20&descColor=e0e0e0"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Passionate+about+AI+%26+Full-Stack+Development;Building+things+that+solve+real+problems;Always+learning+new+technologies" alt="Typing Animation"/>
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Building+AI-powered+products;%F0%9F%92%BB+Full-Stack+%2B+Cloud+Enthusiast;%F0%9F%93%9A+Currently+mastering+System+Design;%F0%9F%94%A5+Open+to+Collaboration+%26+Internships" alt="Typing SVG"/>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/nadimurshawon74/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:nadimurshawon74@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://nadimurshawon.github.io/portfolio-website/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=nadimurshawon&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS"/>
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px">
 
-## 🌟 About Me
+<table align="center" width="100%">
+<tr>
+<td width="55%" valign="top">
+
+### 🧑‍💻 About Me
 
 ```yaml
-name: Shawon
-role: CS Student & Future Software Engineer
-focus: AI, Full-Stack Development & Cloud
-currently_learning: Backend Systems, DevOps & System Design
-motto: "Code. Learn. Innovate. Repeat."
-fun_fact: Debugging is my cardio 🏃‍♂️
+👋 Name       : Nadimur Rahman Shawon
+🎓 Role       : CS Student & Aspiring SWE
+🌱 Learning   : Backend Systems • DevOps • System Design
+🤖 Focus      : AI • Full-Stack Dev • Cloud
+⚡ Motto      : "Code. Learn. Innovate. Repeat."
+🎯 Goal 2026  : Land a Software Engineering Internship
+🎮 Off-duty   : Story Writing
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px">
+</td>
+<td width="45%" valign="top" align="center">
 
-## 🛠 Tech Stack
+<img src="https://github-readme-stats.vercel.app/api?username=nadimurshawon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=FF00E5&text_color=c9d1d9&hide_rank=false" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px">
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,react,django,flask,mysql,git,docker,aws,linux,vscode&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,django,flask,nodejs,mysql,mongodb,git,github,docker,aws,linux,vscode,figma&theme=dark&perline=9"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px">
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nadimurshawon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2&text_color=c9d1d9" height="180"/>
-<img src="https://streak-stats.demolab.com?user=nadimurshawon&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=8A2BE2&currStreakLabel=00F7FF" height="180"/>
+<img src="https://streak-stats.demolab.com?user=nadimurshawon&theme=tokyonight&hide_border=true&background=00000000&ring=00F7FF&fire=FF00E5&currStreakLabel=00F7FF&sideLabels=c9d1d9&dates=888888" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadimurshawon&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=c9d1d9&langs_count=8" height="180"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadimurshawon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9" height="180"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nadimurshawon&theme=react-dark&bg_color=00000000&color=00F7FF&line=FF00E5&point=ffffff&hide_border=true&area=true" width="97%"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px">
 
-## 🏆 Trophies & Achievements
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/nadimurshawon/nadimurshawon/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px">
+
+## 🏆 Trophy Cabinet
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nadimurshawon&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nadimurshawon&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px">
 
 ## 💡 Competitive Programming
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/nadimurshawon?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/nadimurshawon?theme=dark&font=Fira%20Code&ext=heatmap"/>
 
 <br/><br/>
 
-<a href="https://www.hackerrank.com/nadimurshawon74" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile"/>
-</a>
+<a href="https://www.hackerrank.com/nadimurshawon74"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://codeforces.com/"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px">
 
-## 📈 Contribution Graph
+## 📖 Random Dev Wisdom
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nadimurshawon&theme=react-dark&bg_color=0D1117&color=00F7FF&line=8A2BE2&point=ffffff&hide_border=true" alt="Contribution Graph" width="100%"/>
-
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px">
-
-## 📖 Random Dev Quote
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px">
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+### 🌐 Let's Connect & Build Something Cool
 
-</div>
+<a href="https://linkedin.com/in/nadimurshawon74/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:nadimurshawon74@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://nadimurshawon.github.io/portfolio-website/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px">
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/nadimurshawon74/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:nadimurshawon74@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://nadimurshawon.github.io/portfolio-website/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 *"The best way to predict the future is to create it."*
 
-⭐ **From [Shawon](https://github.com/nadimurshawon)**
+⭐ **From [Shawon](https://github.com/nadimurshawon)** — thanks for stopping by!
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:8A2BE2,100:00F7FF&height=150&section=footer"/>
